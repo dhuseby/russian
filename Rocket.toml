@@ -1,0 +1,6 @@
+[global]
+address = "0.0.0.0"
+
+[production]
+port = 80
+secret_key = "uzVFXjumbd5c4IUnbWD4xqtZQVT5ylyMzWZRJawpvPE="
