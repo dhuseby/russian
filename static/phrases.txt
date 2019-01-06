@@ -1,0 +1,6 @@
+good morning,доброе утро
+good afternoon,добрый день
+good evening,добрый вечер
+hello,здравствуйте
+hi,привет
+
